@@ -1,0 +1,92 @@
+{
+    "Products": [
+      {
+        "_id": "647ae6c3237babcf9ec2c42c",
+        "name": "Shoes",
+        "description": "Men's Shoes",
+        "category": "Clothing",
+        "imageUrl": "https://images.unsplash.com/photo-1552346154-21d32810aba3?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTV8fG5pa2UlMjBzaG9lc3xlbnwwfHwwfHx8MA%3D%3D&auto=format&fit=crop&w=600&q=60",
+        "location": "Delhi",
+        "date": "2023-12-23T00:00:00.000Z",
+        "price": 2500,
+        "__v": 0
+      },
+      {
+        "_id": "647ae71b237babcf9ec2c42e",
+        "name": "Shoes",
+        "description": "Men's Shoes",
+        "category": "Clothing",
+        "imageUrl": "https://images.unsplash.com/photo-1600185365483-26d7a4cc7519?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OXx8bmlrZSUyMHNob2VzfGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+        "location": "Delhi",
+        "date": "2023-12-25T00:00:00.000Z",
+        "price": 5500,
+        "__v": 0
+      },
+      {
+        "_id": "647ae764237babcf9ec2c430",
+        "name": "Shoes",
+        "description": "Women's Shoes",
+        "category": "Clothing",
+        "imageUrl": "https://images.unsplash.com/photo-1603773568305-0cda3c871b55?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8N3x8bmlrZSUyMHNob2VzJTIwd29tZW58ZW58MHx8MHx8fDA%3D&auto=format&fit=crop&w=600&q=60",
+        "location": "Delhi",
+        "date": "2023-12-30T00:00:00.000Z",
+        "price": 5500,
+        "__v": 0
+      },
+      {
+        "_id": "647ae7be237babcf9ec2c432",
+        "name": "Tshirt",
+        "description": "Women's Tshirt",
+        "category": "Clothing",
+        "imageUrl": "https://images.unsplash.com/photo-1564584217132-2271feaeb3c5?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MTZ8fHdvbWVuJTIwdCUyMHNoaXJ0fGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+        "location": "Mumbai",
+        "date": "2023-11-25T00:00:00.000Z",
+        "price": 800,
+        "__v": 0
+      },
+      {
+        "_id": "647ae7f3237babcf9ec2c434",
+        "name": "Tshirt",
+        "description": "Women's Tshirt",
+        "category": "Clothing",
+        "imageUrl": "https://media.istockphoto.com/id/1279546650/photo/beige-t-shirt-mockup-template-on-wooden-hanger.webp?s=170667a&w=0&k=20&c=T8Gu7veRy3tpwtMxtM1tQh8WqYTDjTWdbfERkW-T5UQ=",
+        "location": "Mumbai",
+        "date": "2023-11-21T00:00:00.000Z",
+        "price": 700,
+        "__v": 0
+      },
+      {
+        "_id": "647ae817237babcf9ec2c436",
+        "name": "Tshirt",
+        "description": "Women's Tshirt",
+        "category": "Clothing",
+        "imageUrl": "https://images.unsplash.com/photo-1529374255404-311a2a4f1fd9?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDF8fHxlbnwwfHx8fHw%3D&auto=format&fit=crop&w=600&q=60",
+        "location": "Mumbai",
+        "date": "2023-11-10T00:00:00.000Z",
+        "price": 900,
+        "__v": 0
+      },
+      {
+        "_id": "647ae857237babcf9ec2c438",
+        "name": "Tshirt",
+        "description": "Men's Tshirt",
+        "category": "Clothing",
+        "imageUrl": "https://images.unsplash.com/photo-1598948982052-50435a6e879c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Nnx8bWVuJTIwdCUyMHNoaXJ0fGVufDB8fDB8fHww&auto=format&fit=crop&w=600&q=60",
+        "location": "Hyderabad",
+        "date": "2023-09-10T00:00:00.000Z",
+        "price": 1200,
+        "__v": 0
+      },
+      {
+        "_id": "647ae890237babcf9ec2c43a",
+        "name": "Tshirt",
+        "description": "Men's Tshirt",
+        "category": "Clothing",
+        "imageUrl": "https://images.unsplash.com/photo-1595188525947-4ba148279529?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1yZWxhdGVkfDIwfHx8ZW58MHx8fHx8&auto=format&fit=crop&w=600&q=60",
+        "location": "Hyderabad",
+        "date": "2023-09-11T00:00:00.000Z",
+        "price": 1000,
+        "__v": 0
+      }
+    ]
+  }
